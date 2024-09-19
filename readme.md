@@ -1,4 +1,4 @@
-#Luna#
+# Luna #
 ---
 ## La vaca Lola ##
 Este contenido es irrelevante porque este contenido es irrelevante porque este contenido es irrelevante porque este contenido es irrelevante porque este contenido es irrelevante porque este contenido es irrelevante porque este contenido es irrelevante porque este contenido es irrelevante.
@@ -11,12 +11,12 @@ Otra cosa de relleno que no importa además de otra cosa de relleno que no impor
 
 Los archivos extra son los archivos extra son los archivos extra son los archivos extra son los archivos extra son los archivos extra son:
 
-	* rama1_1
-	* rama1_2
-	* rama1_3
-	* rama1_4
-	* ramatrasada_1
-	* ramatrasada_2
+	. rama1_1
+	. rama1_2
+	. rama1_3
+	. rama1_4
+	. ramatrasada_1
+	. ramatrasada_2
 
 
 
